@@ -1,0 +1,20 @@
+1 MX Linux
+2 Manjaro
+3 Mint
+4 Pop!_OS
+5 Ubuntu
+6 Debian
+7 EndeavourOS
+8 elementary
+9 Fedora
+10 Solus
+11 openSUSE
+12 KDE neon
+13 Ubuntu Kylin
+14 deepin
+15 Zorin
+16 Arch
+17 Linuxfx
+18 Garuda
+19 Puppy
+20 antiX
